@@ -1,0 +1,1 @@
+web: gunicorn friends_gallery.wsgi
